@@ -1,0 +1,14 @@
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\bin\Debug\kalkulator.exe.config
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\bin\Debug\kalkulator.exe
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\bin\Debug\kalkulator.pdb
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\MainWindow.g.cs
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\App.g.cs
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\kalkulator_MarkupCompile.cache
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\kalkulator_MarkupCompile.lref
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\MainWindow.baml
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\kalkulator.g.resources
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\kalkulator.exe
+D:\Users\USER\C#\Programowanie4\Programowanie4\kalkulator\obj\Debug\kalkulator.pdb
